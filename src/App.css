@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid rgba(0, 255, 21, 0.486);
   padding: 10px;
 }
 
